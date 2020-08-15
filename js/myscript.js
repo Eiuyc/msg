@@ -1,2 +1,2 @@
-var msg = document.getElementById('msg')
-msg.innerHTML = "tyqmwmhrgqsivmqivgjvijxprixzuuijutuijpjminrmywhqyvym"
+var msg = document.getElementById('msg');
+msg.innerHTML = "gwgmvynrgqsivmqivgjvijxprixzuuijutuijpjminrmythmttwn";
